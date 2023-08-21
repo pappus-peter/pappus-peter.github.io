@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Jekyll! This is Peter Wong"
 date:   2023-08-20 21:43:04 -0400
 categories: jekyll update
 ---
